@@ -1,0 +1,12 @@
+{
+    "name": "luisrovirosa/kata-patterns-php",
+    "require-dev": {
+        "phpunit/phpunit": "4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "KataPatterns\\": "src",
+            "KataPatterns\\Test\\": "test"
+        }
+    }
+}
